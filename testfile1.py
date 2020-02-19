@@ -1,3 +1,3 @@
 for t in range(3):
 
-    print("this is a test of GIT")
+    print("This is a test of GIT, second step")
